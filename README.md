@@ -1,7 +1,7 @@
 # vpc-network
 # AWS VPC Network Diagram
 
-This repository provides a simple AWS VPC network layout, ideal for mid-level cloud engineers looking for a clear example of a basic two-tier architecture.
+This repository provides a simple AWS VPC network layout, for a clear example of a basic two-tier architecture.
 
 ## Architecture Overview
 
