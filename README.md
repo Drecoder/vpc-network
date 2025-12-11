@@ -22,7 +22,7 @@ The setup demonstrates a **two-tier architecture** with public and private subne
   - Private EC2: Restricts access to connections from the public subnet or specific IP ranges.
 
 ## Diagram
-![alt text](vpc-net.png)
+![alt text](vpc-network.png)
 
 ## Purpose
 
